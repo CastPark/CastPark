@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to my GitHub profile!
 
-<!--
-**CastPark/CastPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm 16 years old, from Stuttgart, and I have a passion for working on Minecraft plugins. Although I'm still a beginner, I enjoy learning new things and improving my skills.
 
-Here are some ideas to get you started:
+## About Me
+- 🌍 I'm from Stuttgart, Germany.
+- 💻 I enjoy working on **Minecraft plugins**.
+- 📚 Currently learning the basics of Java and the Spigot API.
+- 🎮 Minecraft is one of my favorite games, and I love expanding the game world with custom plugins.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+As a beginner, my projects are simple for now, but I'm always working on improving and creating more exciting plugins. Feel free to check out my repositories!
+
+## Contact
+If you have tips for me or just want to chat about Minecraft plugins, feel free to reach out!
+
+---
+
+Thanks for stopping by! 😊
